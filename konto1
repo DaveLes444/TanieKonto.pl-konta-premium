@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TanieKody.pl konta premium</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>TanieKody.pl konta premium</h1>
+        <nav>
+            <ul>
+                <li><a href="#products">Produkty</a></li>
+                <li><a href="#contact">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="NETFLIX">
+            <h2>Nasze konta Netflix</h2>
+            <div class="Netflix">
+                <h3>Produkt 1</h3>
+                <p>Cena: 40 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 2</h3>
+                <p>Cena: 50 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 3</h3>
+                <p>Cena: 60 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 4</h3>
+                <p>Cena: 70 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 5</h3>
+                <p>Cena: 80 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 6</h3>
+                <p>Cena: 90 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 7</h3>
+                <p>Cena: 100 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 8</h3>
+                <p>Cena: 110 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 9</h3>
+                <p>Cena: 120 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 10</h3>
+                <p>Cena: 130 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 11</h3>
+                <p>Cena: 140 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 12</h3>
+                <p>Cena: 150 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 13</h3>
+                <p>Cena: 160 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 14</h3>
+                <p>Cena: 170 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+            <div class="product">
+                <h3>Produkt 15</h3>
+                <p>Cena: 180 PLN</p>
+                <button>Kup Teraz</button>
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Kontakt</h2>
+            <p>Możesz się z nami skontaktować pod adresem email: kontakt@sklep.pl</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 TanieKody.pl konta premium</p>
+    </footer>
+</body>
+</html>
